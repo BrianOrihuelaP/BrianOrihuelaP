@@ -2,13 +2,13 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 my developers friends! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone projects and if you have a question about my projects, you can feel free to ask me any question!!!.
+Please feel free to clone projects and if you have a question about my projects, you can ask me any question!!!.
 
 We're Happy Coding Together! 😊
 
 <div align="center" width="50">
 
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Welcome!" width="200"/>
+<img src="https://user-images.githubusercontent.com/44457989/164160616-78ac548d-a16f-4f7f-a502-8db5d1d477e3.jpg" alt="Welcome!" width="200"/>
 
 </div>
 
@@ -49,8 +49,6 @@ We're Happy Coding Together! 😊
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <div align="center">
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me:</i><br>
 
