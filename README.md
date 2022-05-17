@@ -1,18 +1,16 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 my developers friends! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
-
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Welcome!" width="300"/>
-
-</div>
-
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and if you have a question about my projects, you can feel free to ask me any question!!!.
 
-Together we're Happy Coding! 😊
+We're Happy Coding Together! 😊
 
+<div align="center" width="50">
 
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Welcome!" width="200"/>
+
+</div>
 
 ### My Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
